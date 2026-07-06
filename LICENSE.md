@@ -1,4 +1,4 @@
-# 
+# Automático SecureNet kit de herramientas. Descarga e instala con verificación de compatibilidad y monitoreo en tiempo real — rápido, seguro y fácil de usar.
 
 
 
